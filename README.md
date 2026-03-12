@@ -2,7 +2,7 @@
 
 ## Kernel Programming:
 
-(Get Started)[https://www.youtube.com/watch?v=4jQTb6sRGLg] <br>
+[Get Started](https://www.youtube.com/watch?v=4jQTb6sRGLg) <br>
 
 [UIUC CS 483](https://www.youtube.com/playlist?list=PLRRuQYjFhpmvu5ODQoY2l7D0ADgWEcYAX) <br>
 Programming Massively Parallel Processors: 4TH Edition <br>
